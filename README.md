@@ -30,8 +30,8 @@ End of the program.
 
 ### Program:
 ```
-Developed By: Shafeeq Ahamed.S
-Register No.: 212221230092
+Developed By: SSilambarasan K
+Register No.: 212221230101
 ```
 ```c#
 using System;
