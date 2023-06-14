@@ -1,4 +1,5 @@
-## Recursive-function
+## Ex-7 Recursive-function
+### Date:16/5/2023
 ### Aim:
 
 To write a C# program to reverse a number using recursive function.
